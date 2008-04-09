@@ -1,6 +1,0 @@
-<use name=CondFormats/SiStripObjects>
-
-<export>
- <lib name=DQMSiStripCommissioningAnalysis>
-</export>
-
